@@ -163,7 +163,7 @@ main {
 }
 
 .flex-container {
-  background-color: rgba(0,55,0,0.5);
+  background-color: rgba(0,255,0,0.5);
   padding: 1%;
   display: flex;
   flex-wrap: wrap;
